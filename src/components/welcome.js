@@ -10,7 +10,7 @@ class Welcome extends Component {
             <ImageBackground source={{uri: "https://lh3.googleusercontent.com/FIrlgWZAXCrrxNabIWhr77CsZdJSGdSEx8laSiWE7TzWaJjY4Q-PrS7MYYrBAqY7p0_4Ha1hKsSBXFyuhtjW25XZIQ"}} style={{width: 100 + '%', height: 100 + '%'}}>
                 <LinearGradient colors={['white', 'gray', 'black']} style={styles.welcome}>
                     <View style={styles.welcomeScreen}>
-                        <Text style={{color: 'white', fontSize: 20}}>Welcome Too</Text>
+                        <Text style={{color: 'white', fontSize: 20}}>Welcome To</Text>
                         <Text style={{fontFamily: 'bigJohn', fontSize: 30, color: 'white', fontWeight: '700'}}>SmartBee</Text>
                     </View>
 
